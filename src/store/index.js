@@ -8,9 +8,7 @@ import product from './product'
 import category from './category'
 import order from './order'
 import address from './address'
-import address from './user'
-
-
+import user from './user'
 
 Vue.use(Vuex)
 
